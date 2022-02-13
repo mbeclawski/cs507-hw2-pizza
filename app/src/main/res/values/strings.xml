@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW2_PizzaOrder</string>
+    <string name="select_size">Select Size:</string>
+    <string name="pizza_order">Pizza Order</string>
+    <string name="choose_your_pizza">Choose your pizza:</string>
+    <string name="extra_toppings">Extra Toppings:</string>
+    <string name="price_calculating">Calculating…</string>
+    <string name="lbl_price">Total Price:</string>
+    <string name="delivery">Delivery?</string>
+    <string name="delivery_free">No  ($0.00)</string>
+    <string name="delivery_not_free">Yes ($2.00)</string>
+    <string name="select_pizza_list_description">select pizza</string>
+    <string name="selected_pizza_image_desc">selected pizza</string>
+    <string name="pizza_slice">pizza slice</string>
+</resources>
